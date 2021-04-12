@@ -3,3 +3,4 @@
 ## my learning so far--
  1. Understanding of  Artificial neural network ( forward and back propagation, gradient decent approach etc..)
  2. understanding of CNN ( convolution, pooling etc..)
+ 3. understanding of RCNN and basic concept of YOLO
