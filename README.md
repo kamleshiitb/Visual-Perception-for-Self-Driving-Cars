@@ -7,7 +7,7 @@
 
 
 ## my learnings after first check point-
- 1. image classification code for covid 19 detection
+ 1. Implemented image classification for covid 19 detection
  2.  YOLO v1 
  3. YOLO v2
  4. TOLO v3
